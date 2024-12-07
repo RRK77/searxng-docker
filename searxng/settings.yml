@@ -9,7 +9,7 @@ ui:
   static_use_hash: true
 search:
   safe_search: 0
-  autocomplete: "duckduckgo", "google"
+  autocomplete: "google"
   default_lang: ""
   formats:
     - html
