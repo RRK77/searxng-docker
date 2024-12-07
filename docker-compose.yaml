@@ -1,7 +1,6 @@
 version: "3.7"
 
 services:
-
   redis:
     container_name: redis
     image: docker.io/valkey/valkey:8-alpine
